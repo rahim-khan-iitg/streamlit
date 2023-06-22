@@ -26,6 +26,7 @@ def predict():
     else:
         st.write("Real")
 
+st.title("AI Image Classifier")
 with st.spinner("Loading"):
     file=st.file_uploader("Upload Image",accept_multiple_files=False,type=['jpg','png','jpeg'])
 if file is not None:
