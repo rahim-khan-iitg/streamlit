@@ -17,7 +17,7 @@ git clone https://github.com/your-username/your-repo-name.git
 
 This project requires the following dependencies:
 
-- Python 3.x
+- Python 3.11.0
 - TensorFlow
 - Keras
 - NumPy
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 To use this classifier, run the `main.py` script with the following command:
 
 ```
-python main.py
+streamlit Hello.py
 ```
 
 ## Contributing
