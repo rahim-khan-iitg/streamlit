@@ -1,5 +1,3 @@
-
-```
 # Real and AI Generated Image Classifier
 
 This repository contains a real and AI generated image classifier based on the VGG16 architecture./
@@ -46,4 +44,3 @@ Contributions to this project are welcome. If you would like to contribute, plea
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-```
